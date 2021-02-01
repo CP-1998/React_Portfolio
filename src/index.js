@@ -1,8 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+// import HomeContent from './pages/home/home.js';
 import reportWebVitals from './reportWebVitals';
+import '../node_modules/font-awesome/css/font-awesome.min.css';
+// import ProjectContent from './pages/projects/projects.js';
+// import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import App from './App'
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
