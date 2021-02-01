@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
 import HomeContent from './pages/home/home.js'
 import ProjectContent from './pages/projects/projects'
 import ContactContent from './pages/contact/contact';
-import ResumeContent from './pages/references/resume.js'
+import MyResume from './pages/resumeFile/my_resume.pdf'
 
 const App = () => {
   return (
@@ -20,7 +20,7 @@ const App = () => {
             <ContactContent/>
           </Route>
           <Route path='/resume'>
-            <ResumeContent/>
+            <MyResume />
           </Route>
         </Switch>
       </div>

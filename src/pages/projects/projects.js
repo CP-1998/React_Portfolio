@@ -99,6 +99,11 @@ function ProjectContent() {
               fontSize: '26px'
             }}>This application allows social media influencers to create an account, and set up giveaways and sweepstakes on a more transparent and user-focused platform. Built out with React, using MongoDB, Express and Node.JS for back-end needs.</CardText>
             <hr></hr>
+            <Button href='http://ec2-3-86-101-171.compute-1.amazonaws.com:3000/' color='info' style={{
+              fontFamily: 'Bebas Neue',
+              fontSize: '20px'
+            }}>C h e c k&nbsp; I t&nbsp; O u t</Button>
+            <br></br>
             <Button href='https://github.com/stefanysanz/mysorteo' color='info' style={{
               fontFamily: 'Bebas Neue',
               fontSize: '20px'
