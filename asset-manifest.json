@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.12675ca0.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.12675ca0.chunk.js.map",
-    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.b6367039.js",
-    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.b6367039.js.map",
+    "main.js": "/React_Portfolio/static/js/main.ef69a1ba.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.ef69a1ba.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio/static/js/runtime-main.9a5ac51c.js",
+    "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.9a5ac51c.js.map",
     "static/css/2.2c20cfb9.chunk.css": "/React_Portfolio/static/css/2.2c20cfb9.chunk.css",
-    "static/js/2.2c25c1f2.chunk.js": "/React_Portfolio/static/js/2.2c25c1f2.chunk.js",
-    "static/js/2.2c25c1f2.chunk.js.map": "/React_Portfolio/static/js/2.2c25c1f2.chunk.js.map",
-    "static/js/3.3e5d22e1.chunk.js": "/React_Portfolio/static/js/3.3e5d22e1.chunk.js",
-    "static/js/3.3e5d22e1.chunk.js.map": "/React_Portfolio/static/js/3.3e5d22e1.chunk.js.map",
+    "static/js/2.7ae8e3aa.chunk.js": "/React_Portfolio/static/js/2.7ae8e3aa.chunk.js",
+    "static/js/2.7ae8e3aa.chunk.js.map": "/React_Portfolio/static/js/2.7ae8e3aa.chunk.js.map",
+    "static/js/3.9d81cf4f.chunk.js": "/React_Portfolio/static/js/3.9d81cf4f.chunk.js",
+    "static/js/3.9d81cf4f.chunk.js.map": "/React_Portfolio/static/js/3.9d81cf4f.chunk.js.map",
     "index.html": "/React_Portfolio/index.html",
     "static/css/2.2c20cfb9.chunk.css.map": "/React_Portfolio/static/css/2.2c20cfb9.chunk.css.map",
     "static/css/main.8c8b27cf.chunk.css.map": "/React_Portfolio/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2c25c1f2.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.2c25c1f2.chunk.js.LICENSE.txt",
+    "static/js/2.7ae8e3aa.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.7ae8e3aa.chunk.js.LICENSE.txt",
     "static/media/Pexels Videos 2278095.17cf6613.mp4": "/React_Portfolio/static/media/Pexels Videos 2278095.17cf6613.mp4",
     "static/media/circle-cropped.4bd33cfe.png": "/React_Portfolio/static/media/circle-cropped.4bd33cfe.png",
     "static/media/font-awesome.min.css": "/React_Portfolio/static/media/fontawesome-webfont.f691f37e.woff",
@@ -23,10 +23,10 @@
     "static/media/sorteo.54e3162d.png": "/React_Portfolio/static/media/sorteo.54e3162d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6367039.js",
+    "static/js/runtime-main.9a5ac51c.js",
     "static/css/2.2c20cfb9.chunk.css",
-    "static/js/2.2c25c1f2.chunk.js",
+    "static/js/2.7ae8e3aa.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.12675ca0.chunk.js"
+    "static/js/main.ef69a1ba.chunk.js"
   ]
 }
