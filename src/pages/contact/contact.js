@@ -36,7 +36,7 @@ function ContactContent() {
             <ToolTipEmail />
           </Col>
           <Col>
-            <Button className='selectorStyle' href='www.linkedin.com/in/cp1998' color='info'>L I N K E D I N</Button>
+            <Button className='selectorStyle' href='https://www.linkedin.com/in/cp1998' color='info'>L I N K E D I N</Button>
           </Col>
         </Row>
       </div>
