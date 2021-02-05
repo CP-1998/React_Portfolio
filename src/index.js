@@ -8,11 +8,12 @@ import '../node_modules/font-awesome/css/font-awesome.min.css';
 // import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import App from './App'
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { HashRouter } from 'react-router-dom';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <HashRouter>
     <App />
-  </React.StrictMode>,
+  </HashRouter>,
   document.getElementById('root')
 );
 

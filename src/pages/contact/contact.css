@@ -1,0 +1,27 @@
+.autoVid {
+  position: absolute;
+  filter: brightness(10%);
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+  z-index: -1;
+  left: 50%;
+  top: 50%;
+  translate: (-50%, -50%);
+}
+
+.buttonD {
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.selectorStyle {
+  font-family: 'Playfair Display SC', serif;
+  font-size: 15px;
+}
+
+.bodyD {
+  text-align: center;
+  margin-top: auto;
+}

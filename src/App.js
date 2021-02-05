@@ -1,23 +1,23 @@
 import './App.css';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
+import { HashRouter as Router, Switch, Route } from 'react-router-dom'
 import HomeContent from './pages/home/home.js'
-import ProjectContent from './pages/projects/projects'
-import ContactContent from './pages/contact/contact';
+import ProjectContent from './pages/projects/projects.js'
+import ContactContent from './pages/contact/contact.js';
 import MyResume from './pages/resumeFile/my_resume.pdf'
 
 const App = () => {
   return (
-    <Router>
+    <Router basename={window.location.pathname}>
       <div>
         <Switch>
           <Route exact path='/'>
             <HomeContent />
           </Route>
-          <Route path='/projects'>
+          <Route exact path='/projects'>
             <ProjectContent />
           </Route>
-          <Route path='/contact'>
-            <ContactContent/>
+          <Route exact path='/contact'>
+            <ContactContent />
           </Route>
           <Route path='/resume'>
             <MyResume />
