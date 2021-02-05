@@ -2,7 +2,7 @@ import CodingFootage from '../video/Pexels Videos 2278095.mp4';
 import MyPhoto from '../photo/circle-cropped.png';
 import React from 'react';
 import { Button, Row, Col } from 'reactstrap';
-import MyResume from '../resumeFile/my_resume.pdf';
+import MyResume from '../resumeFile/Christian Parks Resume.pdf';
 import './home.css'
 
 
