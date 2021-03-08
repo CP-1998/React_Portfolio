@@ -14,7 +14,7 @@ function HomeContent() {
         <source src={CodingFootage} type="video/mp4" />
       </video>
 
-      <p class='homePara'>Looking for a full-stack, front and back end web developer?</p>
+      <p class='homePara'>Looking for a full-stack front and back end web developer?</p>
 
       <p class='homePara'>L O O K &nbsp; N O &nbsp; F U R T H E R</p>
 
